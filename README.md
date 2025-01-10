@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This responsive website portfolio highlights my skills, projects, and passion for cybersecurity. It serves as a platform to showcase my expertise, commitment, and ongoing journey in the cybersecurity field, with a focus on the practical knowledge and hands-on experience I've gained through various projects and learning opportunities.
+This responsive portfolio website highlights my skills, projects, and passion for cybersecurity. It serves as a platform to showcase my expertise, commitment, and ongoing journey in the cybersecurity field, with a focus on the practical knowledge and hands-on experience I've gained through various projects and learning opportunities.
 
 ## Programming Lanugages Used 🖥️
 HTML/CSS only
